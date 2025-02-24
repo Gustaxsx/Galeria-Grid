@@ -3,10 +3,10 @@
 
 ## Tecnologias 
 
-*HTML
-*CSS
-*GIT
-*GITHUB
+* HTML
+* CSS
+* GIT
+* GITHUB
 
 
 Primeira galeria Flex 
