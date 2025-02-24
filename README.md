@@ -5,8 +5,9 @@
 
 * HTML
 * CSS
-* GIT
-* GITHUB
+* Markdown
+* GitHub
+* Git
 
-
-Primeira galeria Flex 
+## Autor
+[Gustavo Mathias](linkedn)
