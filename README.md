@@ -8,6 +8,3 @@
 * Markdown
 * GitHub
 * Git
-
-## Autor
-[Gustavo Mathias](linkedn)
